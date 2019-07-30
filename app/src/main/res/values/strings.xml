@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArxivVanity</string>
+
+    <string name="title_activity_web_view">WebVIew</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="arxiv_url">Arxiv Url</string>
+    <string name="load">Load</string>
+</resources>
